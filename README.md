@@ -1,11 +1,11 @@
-# ChatGPT 中文版【国内免费直连指南】（支持GPT-4，无需翻墙）【2025年5月更新】
+# ChatGPT 中文版【国内免费直连指南】（支持GPT-4，无需翻墙）【2025年6月更新】
 
-> **更新日期：2025/05/15**          
+> **更新日期：2025/06/04**          
 
-**全面体验 [ChatGPT 中文版](https://chat.yixiaai.com)，国内免费直连，无需翻墙，支持 GPT-4、GPT-4o、o1、o3 和 更多中文功能！**  
-本指南为用户提供一站式的 **ChatGPT 中文版使用指南**，同时整理了国内可用的 [**ChatGPT 镜像网站**](https://chat.lanjing.ai) 和**官网使用教程**，无论是工作学习还是日常生活中，都能满足你的需要~
+**全面体验 [ChatGPT 中文版](https://xsimplechat.com)，国内免费直连，无需翻墙，支持 GPT-4、GPT-4o、o1、o3 和 更多中文功能！**  
+本指南为用户提供一站式的 **ChatGPT 中文版使用指南**，同时整理了国内可用的 [**ChatGPT 镜像网站**](https://chat.lanjing.pro) 和**官网使用教程**，无论是工作学习还是日常生活中，都能满足你的需要~
 
-**ChatGPT 中文版入口：[https://chat.yixiaai.com](https://chat.yixiaai.com)**   
+**ChatGPT 中文版入口：[https://chat.yixiaai.com](https://xsimplechat.com)**   
 **ChatGPT 镜像网站：[https://chat.lanjing.pro](https://chat.lanjing.pro)**
 
 ---
